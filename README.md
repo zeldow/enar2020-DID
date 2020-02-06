@@ -1,4 +1,3 @@
-# enar2020-DID
-ENAR 2020 Tutorial - Difference-in-Differences
+# ENAR 2020 Tutorial - Difference-in-Differences
 
-test commit
+This github repository will house all materials that we use for our ENAR 2020 Tuturial on difference-in-differences. We will upload all pertinent slides, analysis code, data, and reference lists here. Please visit this site in the future for updates.
